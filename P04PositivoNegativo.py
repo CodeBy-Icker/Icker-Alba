@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 numero = float(input("Ingresa un número: "))
  
 if numero > 0:
