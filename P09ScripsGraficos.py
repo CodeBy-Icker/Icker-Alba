@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 import turtle
 import random
  
