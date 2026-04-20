@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 def saludar(nombre):
     """Saluda a una persona por su nombre."""
     print(f"¡Hola, {nombre}! Bienvenido.")
