@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 numero_secreto = 7
 intentos = 0
 adivinado = False
