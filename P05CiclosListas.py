@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 nombres = ["Ana", "Luis", "María", "Carlos", "Sofía"]
 print("Lista original:", nombres)
  
