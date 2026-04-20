@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 numero = int(input("Ingresa un número entero: "))
  
 if numero % 2 == 0:
