@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 def dividir(a, b):
     try:
         resultado = a / b
