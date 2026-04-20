@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 estudiantes = [
     ["Ana",    [85, 90, 78, 92]],
     ["Luis",   [60, 55, 70, 65]],
