@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 es_cliente_frecuente = input("¿Eres cliente frecuente? (si/no): ").strip().lower() == "si"
 monto_compra = float(input("Ingresa el monto de tu compra: $"))
 tiene_cupon = input("¿Tienes cupón de descuento? (si/no): ").strip().lower() == "si"
