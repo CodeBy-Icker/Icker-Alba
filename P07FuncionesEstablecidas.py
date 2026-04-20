@@ -1,4 +1,4 @@
-#Icker Alba
+#Icker Santiago Alba Ayala
 numeros = [4, 7, 1, 9, 3, 15, 6, 2]
  
 print("Lista:", numeros)
